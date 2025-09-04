@@ -27,7 +27,7 @@ https://openapi.programming-hero.com/api/word/5
 1. Get ⚡ All Words <br/>
 
 ```bash
-https://openapi.programming-hero.com/api/words/all
+
 ```
 
 # Work To do
